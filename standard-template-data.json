@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-07-16T01:55:17.886833597Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-07-16T01:59:24.254417736Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -1761,6 +1761,42 @@
               "isSelected": true,
               "blockId": "576e330b-c9c6-4091-962b-9b02e6b89c95",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "0cbdbb60-f5a1-4660-bdb8-0af9cf5b3b7c",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/roomtype_exterior/1784167162319-tple2zzf9l.jpg",
+              "sortOrder": 8,
+              "description": "편안한 머무름",
+              "isSelected": true,
+              "blockId": "576e330b-c9c6-4091-962b-9b02e6b89c95",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "0f9d7109-3499-42d2-b352-c642b0340688",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/roomtype_exterior/1784167162331-rioyzv17iw.jpg",
+              "sortOrder": 9,
+              "description": "자연을 품은 마루",
+              "isSelected": true,
+              "blockId": "576e330b-c9c6-4091-962b-9b02e6b89c95",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "b3d2b9fa-de11-4d60-ba67-6c5973a020b3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/roomtype_exterior/1784167162327-894ut2py5z.jpg",
+              "sortOrder": 10,
+              "description": "햇살이 머무는 자리",
+              "isSelected": true,
+              "blockId": "576e330b-c9c6-4091-962b-9b02e6b89c95",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "20a1a37f-699b-486b-936c-1a5a036c1f4f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/roomtype_exterior/1784167162323-g1rrp20eeg.jpg",
+              "sortOrder": 11,
+              "description": "따뜻한 온기",
+              "isSelected": true,
+              "blockId": "576e330b-c9c6-4091-962b-9b02e6b89c95",
+              "category": "roomtype_exterior"
             }
           ]
         }
