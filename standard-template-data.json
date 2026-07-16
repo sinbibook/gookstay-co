@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-07-16T02:42:44.361095009Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-07-16T02:44:08.735175868Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -1428,25 +1428,34 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [ ],
-                "description": ""
-              },
-              "about": {
-                "title": "",
+                "title": "미리보기",
                 "images": [
                   {
-                    "id": "17d4713a-c557-43a3-a437-0b6308bd4979",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/layout_map_about/1784166696071-v80c4inhhf.jpg",
+                    "id": "71be52b1-c9b5-4271-87e8-ef5024d8c1fb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/layout_map_hero/1784169847185-i24btesqxm.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
-              "enabled": false
+              "about": {
+                "title": " ",
+                "images": [
+                  {
+                    "id": "17d4713a-c557-43a3-a437-0b6308bd4979",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/layout_map_about/1784166696071-v80c4inhhf.jpg",
+                    "sortOrder": 0,
+                    "description": " ",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": " "
+              },
+              "enabled": true
             }
           ]
         }
