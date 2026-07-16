@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-07-16T01:59:24.254417736Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-07-16T02:13:21.982145316Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -1112,7 +1112,16 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "0a1fa88b-aa50-462f-8307-3c8257c47b17",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/index_closing/1784168000102-e30z02ytg3.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -1124,6 +1133,30 @@
                     "id": "231b63f5-dc9d-42d4-9ffc-dda715242756",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/index_essence/1784165617326-45jl8m91qt.jpg",
                     "sortOrder": 0,
+                    "description": "익숙한 일상을 잠시 내려두고,\n시간이 천천히 흐르는 한옥의 하루를 만나보세요.",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "673752a2-60b0-4951-ad77-0fde109ce034",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/index_essence/1784168000151-yntqx9syho.jpg",
+                    "sortOrder": 1,
+                    "description": "오랜 시간 간직해 온 아름다움이\n공간 곳곳에 자연스럽게 스며듭니다.",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "0d534589-cd93-4606-9182-988b2b29b861",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/index_essence/1784168000139-kstp8h883y.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "a6fea9b9-fb47-46fd-a003-e32b09bf5d9d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/index_essence/1784168000146-8uh88lw4oc.jpg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
